@@ -1,4 +1,5 @@
 Find Dominant Colors from an Image!
+
 A Flask-based web application that leverages machine learning algorithms to identify the dominant colors in an image. Users can upload an image from their computer or provide an image URL, and the application will display the dominant colors along with marking their presence in the image.
 
 Features
