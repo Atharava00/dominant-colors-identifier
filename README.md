@@ -7,6 +7,7 @@ Use Image URLs: Analyze images from URLs.
 Dominant Colors Detection: Uses ML algorithms to detect dominant colors in the image.
 Visual Representation: Marks the top detected dominant color on the image.
 How It Works
+
 Image Input:
 
 Upload a local image file.
